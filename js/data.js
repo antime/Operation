@@ -137,26 +137,6 @@ var FrontGuide = {
                 {'Name':'利器','Title':'创造者和他们的工具','Href':'http://liqi.io/'}
             ]
         }]},{
-        "pageT1":"渗透辅助/平台",
-        "pageC1":[{
-            "pageT2":"社工库",
-            "pageC2":[
-                {'Name':'70Sec','Title':'70sec社工库查询系统内部版','Href':'http://s.70sec.com/'}
-
-            ]
-            },{
-            "pageT2":"指纹收集",
-            "pageC2":[
-                {'Name':'Nmap在线扫描','Title':'Nmap Online Scanner','Href':'http://nmap.online-domain-tools.com/'}
-
-
-            ]
-            },{
-            "pageT2":"渗透工具",
-            "pageC2":[
-                {'Name':'任意命令执行','Title':'在线命令执行','Href':'http://www.aisec.cn/lab/bash.php'},
-            ]
-        }]},{
         "pageT1":"实用工具",
         "pageC1":[{
             "pageT2":"空间搜索",
