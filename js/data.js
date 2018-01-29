@@ -12,7 +12,7 @@
 */
 var FrontGuide = {
     "main":[{
-        "pageT1":"安全圈",
+        "pageT1":"运维圈",
         "pageC1":[{
             "pageT2":"安全门户",
             "pageC2":[
@@ -68,7 +68,7 @@ var FrontGuide = {
                 {'Name':'安全技能路线 - SecWiki','Title':'安全技能 -SecWiki','Href':'https://www.sec-wiki.com/skill/index?navisec'}
             ]
         }]},{
-        "pageT1":"态势感知",
+        "pageT1":"架构师",
         "pageC1":[{
             "pageT2":"威胁情报",
             "pageC2":[
