@@ -16,7 +16,7 @@ var FrontGuide = {
         "pageC1":[{
             "pageT2":"安全门户",
             "pageC2":[
-                {'Name':'安全周','Title':'网络安全的资讯，漏洞，招聘，沙龙等信息报道','Href':'https://www.secz.org/',"New":"1"},
+                {'Name':'架构师小蜜圈','Title':'关注架构与运维','Href':'http://www.3xmq.com/',"New":"1"},
 
             ]
             },{
