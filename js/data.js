@@ -190,7 +190,7 @@ var FrontGuide = {
             },{
             "pageT2":"个人博客",
             "pageC2":[
-                {'Name':'余弦','Title':'在宇宙的历史长河中，我们渺小到绝望。但这不应该是我们该操心的事。','Href':'http://evilcos.me/',"New":"1"},
+                {'Name':'Zhao Jiankai','Title':'学习 总结 思考','Href':'http://jkzhao.github.io/',"New":"1"},
 
             ]
         }],
